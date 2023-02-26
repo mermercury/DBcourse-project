@@ -1,5 +1,3 @@
-# rainng-course
-
 ## Project setup
 ```
 npm install

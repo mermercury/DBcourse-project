@@ -1,0 +1,12 @@
+server:
+  port: 9999
+
+spring:
+  datasource:
+    username: root
+    password: 220406
+    url: jdbc:mysql:///coursedb
+  redis:
+    port: 6379
+    host: localhost
+
